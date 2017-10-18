@@ -1,0 +1,5 @@
+class Vendedor{
+String nombre;
+Date fecha_Nac;
+String cedula;
+}
