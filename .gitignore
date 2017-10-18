@@ -3,3 +3,4 @@ build/
 *.jar
 node_modules/
 otra.txt
+vendedor.txt
